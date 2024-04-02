@@ -11,4 +11,10 @@ int multiply_two(int x)
   return x + 2;
 }
 
+int divide_two(int x)
+{
+  return x + 2;
+}
+
+
 }
